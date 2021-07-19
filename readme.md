@@ -1,6 +1,6 @@
 ![splash](http://choccyhobnob.github.io/img/cygnus/splash.jpg)
 
-## EmulationStation Theme: Cygnus
+## EmulationStation Theme: Cygnus - Blue Flames
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus comes in three colour schemes, 'cygnus' 'mono' and 'terminal'.
 
 **NOTE: Cygnus uses cutting edge features. You will need the latest official emulaionstation for the video, marquee, and carousel features to work correctly. Update from the RetroPie setup menu, manage packages, core, emulationstation.**
