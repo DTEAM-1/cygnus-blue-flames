@@ -171,21 +171,21 @@
 
     <view name="video">
          <image name="md_marquee">
-            <pos>0.48 0.30</pos>
-            <origin>0 0.5</origin>
-            <maxSize>0.3 0.20</maxSize>
+            <pos>0.55 0.30</pos>
+            <origin>0.44 0.8</origin>
+            <maxSize>0.29 0.19</maxSize>
 			<zIndex>40</zIndex>
         </image>
         <image name="md_image">
-            <origin>0.5 0.5</origin>
-            <pos>0.55 0.8</pos>
-            <maxSize>0.22 0.22</maxSize>
+            <origin>0.0 0.5</origin>
+            <pos>0.40 0.75</pos>
+            <maxSize>0.20 0.35</maxSize>
 			<zIndex>40</zIndex>
         </image>
        <video name="md_video">
            <origin>0.5 0.5</origin>
-            <pos>0.75 0.55</pos>
-            <maxSize>0.5 0.5</maxSize>
+            <pos>0.72 0.65</pos>
+            <maxSize>0.55 0.55</maxSize>
             <delay>0.01</delay>
             <default>./../images/static.mp4</default>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
