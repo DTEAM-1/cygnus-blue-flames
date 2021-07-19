@@ -24,6 +24,8 @@ Cygnus_- Blue flames is based on the work of "ChoccyHobNob". Changes:
 - Also, I changed the background to blue flames.
 -  I slightly changed the position of the videos, marquees and the 3D box
 
+NoteL Don't use OMXplayer.
+
 ### Cygnus theme config file
 There are two files included below by the config.xml file, one is a colorset, the other is a template.
 Valid changes you can make here are as follows.
