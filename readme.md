@@ -51,6 +51,13 @@ other useful ones are:-
 
 There are lots of these, look at the folder names for a list of all the available systems!
 
+#DTeam update: 
+Cygnus_- Blue flames is based on the work of "ChoccyHobNob". Changes: 
+- More systems for Lr-Mess / MAMEDEV and +.
+- I changed a lot of images and logos. I have added systems images with controllers. Originally we didn't see the joysticks/gamepads. 
+- Also, I changed the background to blue flames.
+-  I slightly changed the position of the videos, marquees and the 3D box
+
 ### Screenshots
 ![Cygnus](http://choccyhobnob.github.io/img/cygnus/cygnus.jpg)
 ![mono](http://choccyhobnob.github.io/img/cygnus/mono.jpg)
