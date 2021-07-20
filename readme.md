@@ -1,4 +1,4 @@
-![splash](http://choccyhobnob.github.io/img/cygnus/splash.jpg)
+![splash](https://raw.githubusercontent.com/FollyMaddy/media/main/animated_gif/themes/cygnus-blue-flames.gif)
 
 ## EmulationStation Theme: Cygnus - Blue Flames
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus comes in three colour schemes, 'cygnus' 'mono' and 'terminal'.
