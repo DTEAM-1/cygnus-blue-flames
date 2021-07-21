@@ -67,13 +67,12 @@ There are lots of these, look at the folder names for a list of all the availabl
 
 
 ### Screenshots
-![Cygnus](http://choccyhobnob.github.io/img/cygnus/cygnus.jpg)
-![mono](http://choccyhobnob.github.io/img/cygnus/mono.jpg)
-![terminal](http://choccyhobnob.github.io/img/cygnus/terminal.jpg)
-
-![basic](http://choccyhobnob.github.io/img/cygnus/basic.jpg)
-![detail](http://choccyhobnob.github.io/img/cygnus/detail.jpg)
-![video](http://choccyhobnob.github.io/img/cygnus/video.jpg)
+![model3](https://user-images.githubusercontent.com/84874218/126497724-00423b78-09cb-4cdc-847e-3db45dace42f.jpg)
+![Jakks](https://user-images.githubusercontent.com/84874218/126497819-ed85726e-3084-482b-8165-79e64e8101bb.jpg)
+![ColecoVision](https://user-images.githubusercontent.com/84874218/126497858-967b1bfd-66e4-4f71-83db-b806f6237f5c.jpg)
+![MegaDuck](https://user-images.githubusercontent.com/84874218/126497908-c0dd90c2-57f3-48ac-a359-0adf12b71b8f.jpg)
+![Konamih](https://user-images.githubusercontent.com/84874218/126498015-321bd69c-edf9-4a10-961a-3e2f504ff086.jpg)
+![Tigerh](https://user-images.githubusercontent.com/84874218/126498044-b8ad4a6c-5e8f-44d2-939c-26d41ff9fa22.jpg)
 
 ### Credits
 All xml, and some images created by Steve Boswell (ChoccyHobNob).
