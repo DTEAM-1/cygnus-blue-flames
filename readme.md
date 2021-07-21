@@ -18,13 +18,18 @@ ssh onto your RetroPie install and enter the following:
 It will now be choosable from the ui options menu in emulationstation
 
 #### DTEAM-1 Update
-Cygnus_- Blue flames is based on the work of "ChoccyHobNob". Changes: 
+Cygnus_- Blue flames is based on the work of "ChoccyHobNob". 
+Changes: 
 - More systems for Lr-Mess / MAMEDEV and +.
 - I changed a lot of images and logos. I have added systems images with controllers. Originally we didn't see the joysticks/gamepads. 
 - Also, I changed the background to blue flames.
 -  I slightly changed the position of the videos, marquees and the 3D box
 
-NoteL Don't use OMXplayer.
+Note:-
+- Don't use OMXplayer.
+- changes was apply only where you can read "cygnus - blue flames" 
+- To do list: Add Mascot where you only have the system and the logo and modify some logos for unchanged systems
+
 
 ### Cygnus theme config file
 There are two files included below by the config.xml file, one is a colorset, the other is a template.
