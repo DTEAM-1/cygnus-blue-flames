@@ -28,7 +28,7 @@ Changes:
 Note:-
 - Don't use OMXplayer.
 - changes was apply only where you can read "cygnus - blue flames" 
-- To do list: Add Mascot where you only have the system and the logo and modify some logos for unchanged systems
+- To do list: Add "mascots" where you only have the system and the logo and modify some logos for unchanged systems
 
 
 ### Cygnus theme config file
