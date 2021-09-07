@@ -24,6 +24,7 @@ Changes:
 - I changed a lot of images and logos. I have added systems images with controllers. Originally we didn't see the joysticks/gamepads. 
 - Also, I changed the background to blue flames.
 -  I slightly changed the position of the videos, marquees and the 3D box
+-  New default theme for uncovered systems (theme.xml)
 
 Note:-
 - Don't use OMXplayer.
