@@ -1,9 +1,9 @@
 ![splash](https://raw.githubusercontent.com/FollyMaddy/media/main/animated_gif/themes/cygnus-blue-flames.gif)
 
 ## EmulationStation Theme: Cygnus - Blue Flames
-Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. 
+Cygnus Blue Flames is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. 
 
-**NOTE: Cygnus uses cutting edge features. You will need the latest official emulaionstation for the video, marquee, and carousel features to work correctly. Update from the RetroPie setup menu, manage packages, core, emulationstation. It doesn't work with OMXplayer**
+**NOTE: Cygnus Blue Flames uses cutting edge features. You will need the latest official emulaionstation for the video, marquee, and carousel features to work correctly. Update from the RetroPie setup menu, manage packages, core, emulationstation. It doesn't work with OMXplayer**
 
 ### Installing Cygnus - Blue Flames
 
@@ -28,15 +28,15 @@ There are two files included below by the config.xml file, one is a colorset, th
 Valid changes you can make here are as follows.
 
 #### Colorsets
-cygnus.xml             <--- This is the default blue flames colorscheme.  <----- the good one
-mono.xml               <--- This is a black and grey colorscheme.  
-terminal.xml           <--- This is a green colorscheme.  
+- cygnus.xml             <--- This is the default blue flames colorscheme.  <----- the good one
+- mono.xml               <--- This is a black and grey colorscheme.  
+- terminal.xml           <--- This is a green colorscheme.  
 
 #### Templates
-cygnus.xml             <--- All bells & whistles. Lots of metadata, lots of art.  <----- the good one
-nometa.xml             <--- No metadata, all text except gamelist removed.  
-simpleart.xml          <--- Large art, no overlayed boxart or marquee images.  
-simpleart-nometa.xml   <--- Minimal theme with just a gamelist and large art.  
+- cygnus.xml             <--- All bells & whistles. Lots of metadata, lots of art.  <----- the good one
+- nometa.xml             <--- No metadata, all text except gamelist removed.  
+- simpleart.xml          <--- Large art, no overlayed boxart or marquee images.  
+- simpleart-nometa.xml   <--- Minimal theme with just a gamelist and large art.  
 
 ### Platform Specific Themes
 Cygnus - Blue flames comes with a large number of defined systems, more than even the default carbon theme. It's probably one of the most completed theme on for RetroPie. 
