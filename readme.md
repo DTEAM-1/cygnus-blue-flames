@@ -7,7 +7,7 @@ Cygnus Blue Flames is a clean theme that displays large preview images, videos, 
 
 ### Installing Cygnus - Blue Flames
 
- Cygnus - Blue Flames is included in the theme installer in retropie-setup so that's probably the easiest way to install it!_ **SEE line 56 - DTEAM-1/cygnus-blue-flames**
+ Cygnus - Blue Flames is included in the theme installer in retropie-setup so that's probably the easiest way to install it!_ **SEE line 59 - DTEAM-1/cygnus-blue-flames**
 
 #### DTEAM-1 Update
 Cygnus_- Blue flames is based on the work of "ChoccyHobNob". 
