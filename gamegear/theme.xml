@@ -5,7 +5,7 @@
 	<view name="system">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./logo.png</path>
         </image>
 
         <image name="mascot" extra="true">
@@ -19,7 +19,7 @@
 
     <view name="detailed, video">
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./logo.png</path>
 		</image>
         <image name="system" extra="true">
 			<path>./system.png</path>
@@ -28,7 +28,7 @@
     <view name="basic">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./logo.png</path>
 		</image>
 		<image name="overlay" extra="true">
 			<path>./controller.svg</path>
