@@ -186,7 +186,7 @@
            <origin>0.5 0.5</origin>
             <pos>0.72 0.65</pos>
             <maxSize>0.55 0.55</maxSize>
-            <delay>0.01</delay>
+            <delay>0.3</delay>
             <default>./../images/static.mp4</default>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>false</showSnapshotDelay>
