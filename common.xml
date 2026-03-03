@@ -135,5 +135,18 @@ based on:		"eudora" by AmadhiX
         <maxSize>0.2 0.25</maxSize>
     </image>
 </view>
-
+ <!-- =========================
+       NAVIGATION SOUNDS
+       ========================= -->
+  <feature supported="navigationsounds">
+    <view name="all">
+      <sound name="systembrowse"><path>./_res/audio/systembrowse.wav</path></sound>
+      <sound name="quicksysselect"><path>./_res/audio/quicksysselect.wav</path></sound>
+      <sound name="select"><path>./_res/audio/select.wav</path></sound>
+      <sound name="back"><path>./_res/audio/back.wav</path></sound>
+      <sound name="scroll"><path>./_res/audio/scroll.wav</path></sound>
+      <sound name="favorite"><path>./_res/audio/favorite.wav</path></sound>
+      <sound name="launch"><path>./_res/audio/launch.wav</path></sound>
+    </view>
+  </feature>
 </theme>

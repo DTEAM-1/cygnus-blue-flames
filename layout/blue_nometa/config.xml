@@ -1,0 +1,5 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <include>./_res/colorsets/cygnus.xml</include>
+  <include>./_res/templates/nometa.xml</include>
+</theme>
